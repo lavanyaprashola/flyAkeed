@@ -6,7 +6,6 @@ jobs :
 - job: build
 trigger:
 - main
-
 pool:
   vmImage: ubuntu-latest
 
