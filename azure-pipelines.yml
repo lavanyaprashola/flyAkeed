@@ -8,7 +8,7 @@ trigger:
 
 pool:
  name : Default
- VmImage : ASPLAP1954
+ VmImage : lav
 variables:
   buildConfiguration: 'Release'
 
